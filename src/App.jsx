@@ -20,7 +20,7 @@ const App = () => {
   //Content
 
       const tagline = 'Available for freelance work';
-      const name = 'test1';
+      const name = 'na tharku';
       const email = 'sample@gmail.com';
       const heroLine1 = 'independent';
       const heroLine2 = 'full-stack';
